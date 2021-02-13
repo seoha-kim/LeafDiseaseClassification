@@ -1,2 +1,2 @@
 # LeafDiseaseClassification
-Cassava Leaf Disease Classification with Kaggle (~Ing)
+Cassava Leaf Disease Classification with Kaggle (End)
